@@ -3,6 +3,16 @@ This data is for a question for Giuseppe. Namely, is the MET decrease seen with 
 It is scraped data that is not anonymised: please don't use it.
 These are my notes.
 
+## Ah! The rain!
+
+A curious note. The distribution of finish times show peaks due to the athletes pushing themselves to finish before a nice round number. e.g. 2 hour.
+
+![arrivals](arrival peaks.png)
+
+Funny thing is that when it rained in 2019 the peak was shifted, relative to sunny 2018.
+
+![rain.png](rain.png)
+
 ### 2012-2014
 These three years are from the Oxford mail.
 `.txt` is raw, `.csv` is parsed.
