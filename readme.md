@@ -7,7 +7,7 @@ These are my notes.
 
 A curious note. The distribution of finish times show peaks due to the athletes pushing themselves to finish before a nice round number. e.g. 2 hour.
 
-![arrivals](arrival peaks.png)
+![arrivals](arrival%20peaks.png)
 
 Funny thing is that when it rained in 2019 the peak was shifted, relative to sunny 2018.
 
